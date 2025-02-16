@@ -1,4 +1,5 @@
 # Blackjack Terminal Game
+![Linting and Testing](https://github.com/LuisKaizen75/python-blackjack/actions/workflows/actions.yml/badge.svg)
 
 Welcome to the Python Casino! This is a simple yet robust Blackjack game implemented in Python that you can play in your terminal.
 
